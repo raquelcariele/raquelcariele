@@ -4,7 +4,7 @@
 
 <head>
 
-<title>index.html</title>
+<title>Título da página</title>
 
 <meta charset=“utf-8”>
 
